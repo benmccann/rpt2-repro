@@ -17,7 +17,7 @@ export function read_only_form_data() {
 }
 
 class ReadOnlyFormData {
-	#map: FormDataMap;
+	#mapqqq: FormDataMap;
 
 	constructor(map: FormDataMap) {
 		this.#map = map;
